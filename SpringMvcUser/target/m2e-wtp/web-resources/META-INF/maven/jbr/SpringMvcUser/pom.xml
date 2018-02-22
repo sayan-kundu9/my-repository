@@ -96,5 +96,6 @@
   </dependencies>
   <build>
     <finalName>SpringMvcUser</finalName>
+    
   </build>
 </project>
