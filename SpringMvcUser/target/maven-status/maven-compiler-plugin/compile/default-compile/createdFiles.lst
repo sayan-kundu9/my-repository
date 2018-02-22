@@ -1,0 +1,8 @@
+jbr\springmvc\controller\LoginController.class
+jbr\springmvc\dao\UserDaoImpl$1.class
+jbr\springmvc\dao\UserDaoImpl.class
+jbr\springmvc\dao\UserMapper.class
+jbr\springmvc\model\Login.class
+jbr\springmvc\dao\UserDao.class
+jbr\springmvc\controller\RegistrationController.class
+jbr\springmvc\model\User.class
